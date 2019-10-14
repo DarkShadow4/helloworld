@@ -1,0 +1,9 @@
+// Hello, world!
+// The ALB Programming Language
+// Alberto Navalon Lillo (@albertonl), (C) 2019
+
+BEGIN
+	out {
+		:string "Hello, world!" NEWL ;
+	}
+END
